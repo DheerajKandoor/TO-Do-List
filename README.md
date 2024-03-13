@@ -6,6 +6,12 @@ This is a simple Todo List application built using HTML, CSS, and JavaScript. It
 
 ![todoGIF](https://github.com/DheerajKandoor/TO-Do-List/assets/92793181/62a55706-2b20-435f-99dc-57180d45046a)
 
+## Live Demo
+
+```bash
+  https://to-do-list-2b4t.onrender.com/
+```
+
 ## Run Locally
 
 Clone the project
